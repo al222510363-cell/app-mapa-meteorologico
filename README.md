@@ -1,4 +1,5 @@
-# Sistema de Consulta Meteorológica
+# Mapa Meteorológico Global - Sistema de Consulta Meteorológica
+
 Proyecto desarrollado para la asignatura IAW.
 
 **Autor:** Gustavo
