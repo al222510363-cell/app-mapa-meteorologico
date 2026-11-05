@@ -1,5 +1,4 @@
-# Aplicación Web de Mapa Meteorológico
-
+# Sistema de Consulta Meteorológica
 Proyecto desarrollado para la asignatura IAW.
 
 **Autor:** Gustavo
