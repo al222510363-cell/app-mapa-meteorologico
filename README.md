@@ -1,4 +1,4 @@
-# Aplicación Web de Mapa Meteorológico
+# Mapa Meteorológico Global
 
 Proyecto desarrollado para la asignatura IAW.
 
