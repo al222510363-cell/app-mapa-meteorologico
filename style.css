@@ -147,4 +147,20 @@ button:hover {
     .weather-card {
         padding: 20px 15px;
     }
+
+    .contact-footer {
+    margin-top: 35px;
+    text-align: center;
+    font-size: 13px;
+    color: #cbd5e1;
+}
+
+.contact-footer a {
+    color: #67e8f9;
+    text-decoration: none;
+}
+
+.contact-footer a:hover {
+    text-decoration: underline;
+}
 }
